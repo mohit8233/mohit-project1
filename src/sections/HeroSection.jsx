@@ -50,14 +50,14 @@ const HeroSection = () => {
                 <input
                   type="text"
                   placeholder="Job title (e.g. React Developer)"
-                  className="w-full px-4 py-3 border rounded-lg focus:ring-2 focus:ring-blue-500 outline-none"
+                  className="w-full px-4 py-3 border rounded-lg focus:ring-2 focus:ring-blue-500 outline-none text-black"
                 />
 
                 {/* Location */}
                 <input
                   type="text"
                   placeholder="Location (e.g. Bangalore)"
-                  className="w-full px-4 py-3 border rounded-lg focus:ring-2 focus:ring-blue-500 outline-none"
+                  className="w-full px-4 py-3 border rounded-lg focus:ring-2 focus:ring-blue-500 outline-none  text-black"
                 />
 
                 {/* Button */}

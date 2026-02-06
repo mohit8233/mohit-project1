@@ -25,13 +25,7 @@ const Header = () => {
           <a href="#" className="hover:text-blue-600">Contact</a>
         </nav>
 
-        {/* Buttons */}
-        <div className="hidden md:flex items-center gap-4">
-         
-          <button className="bg-blue-600 hover:bg-blue-700 text-white px-5 py-2 rounded-lg transition">
-            Login
-          </button>
-        </div>
+      
 
         {/* Mobile Menu Icon */}
         <button
@@ -52,9 +46,7 @@ const Header = () => {
             <a href="#">About</a>
             <a href="#">Contact</a>
         
-            <button className="bg-blue-600 text-white px-4 py-2 rounded-lg">
-              Login
-            </button>
+          
           </nav>
         </div>
       )}
