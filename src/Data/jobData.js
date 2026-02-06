@@ -2,7 +2,7 @@ const jobsData = [
   {
     id: 1,
     title: "User Experience Designer - Employee Solutions",
-    location: "New York, USA",
+    location: "Ahmedabad, India",
     type: "Full Time",
     company: "Globe Solution Ltd.",
     time: "2h ago",
@@ -11,7 +11,7 @@ const jobsData = [
   {
     id: 2,
     title: "Foreign Language Research Analyst (Chinese)",
-    location: "New York, USA",
+    location: "Surat",
     type: "Full Time",
     company: "Globe Solution Ltd.",
     time: "2h ago",
@@ -20,7 +20,7 @@ const jobsData = [
   {
     id: 3,
     title: "Medical Assistant, East Valley Primary Care",
-    location: "New York, USA",
+    location: "Ahmedabad",
     type: "Full Time",
     company: "Globe Solution Ltd.",
     time: "2h ago",
