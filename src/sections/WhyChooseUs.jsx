@@ -12,7 +12,7 @@ const WhyChooseUs = () => {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.8 }}
         >
-          <h1 className="text-3xl md:text-4xl font-bold text-gray-800">
+          <h1 className="text-3xl md:text-4xl font-bold text-gray-800 mt-12">
             Why we are different
           </h1>
 

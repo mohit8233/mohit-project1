@@ -49,7 +49,7 @@ const Talent = () => {
           <motion.button
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
-            className="px-7 py-3 bg-blue-700 text-white font-semibold rounded-md"
+            className="px-7 py-3 bg-blue-700 text-white font-semibold rounded-md mb-7"
           >
             FIND TALENT
           </motion.button>
