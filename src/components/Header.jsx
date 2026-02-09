@@ -29,7 +29,7 @@ const Header = () => {
 
         {/* Mobile Menu Icon */}
         <button
-          className="md:hidden text-2xl text-gray-700"
+          className="md:hidden text-2xl text-white"
           onClick={() => setMenuOpen(!menuOpen)}
         >
           {menuOpen ? <FaTimes /> : <FaBars />}
